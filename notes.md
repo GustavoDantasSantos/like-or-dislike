@@ -38,4 +38,4 @@ If the list is empty, return Nothing.
 
 ## Driver: Gustavo
 
-[] Send the kata to my git hub;
+[X] Send the kata to my git hub;
